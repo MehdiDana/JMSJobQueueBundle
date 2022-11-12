@@ -1,5 +1,5 @@
 {
-    "name":         "zolex/job-queue-bundle",
+    "name":         "mehdidana/job-queue-bundle",
     "description":  "Support for PHP 8, Symfony 5 and Doctrine Common 3",
     "keywords":     ["job","queue", "background", "cron", "scheduled"],
     "homepage":     "http://jmsyst.com/bundles/JMSJobQueueBundle",
@@ -16,10 +16,10 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "symfony/framework-bundle": "^5.0",
-        "symfony/error-handler": "^5.0",
+        "symfony/framework-bundle": "^5.4",
+        "symfony/error-handler": "^5.4",
         "doctrine/common": "^3.0",
-        "symfony/process": "^5.0"
+        "symfony/process": "^5.4"
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "*",
